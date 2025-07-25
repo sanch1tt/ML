@@ -21,9 +21,6 @@ RUN chmod -R 777 /app
 # Install Python dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Expose the port for the FastAPI web server
-EXPOSE 7860
-
 # Make start script executable
 RUN chmod +x start.sh
 
