@@ -5,7 +5,7 @@ TELEGRAM_API = 20687211
 TELEGRAM_HASH = "4523f58b045175baaeaf1ba29733f31c"
 
 # Recommended for persisting settings, RSS feeds, and task history. Essential for some features.
-DATABASE_URL = "mongodb+srv://sanchit:<db_password>@cluster0.qdcujw7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_URL = "mongodb+srv://sanchit:sanchit@cluster0.qdcujw7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 TG_PROXY = {}  # Example: {"scheme": "socks5", "hostname": "11.22.33.44", "port": 1234, "username": "user", "password": "pass"}
