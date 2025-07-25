@@ -16,7 +16,6 @@ google-auth-oauthlib
 gunicorn
 httpx
 jinja2
-kubernetes
 kurigram
 langcodes
 lxml
